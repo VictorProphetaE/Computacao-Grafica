@@ -23,7 +23,7 @@ Em seguida, clique em "Build and Run" ou pressione F9 para compilar e executar o
 
 ## Controles
 
-- Pressione a tecla 'a' para ativar ou desativar a animação do avião.
-- Pressione as teclas '+' e '-' para aumentar ou diminuir a velocidade da animação.
+- Pressione a tecla ```a``` para ativar ou desativar a animação do avião.
+- Pressione as teclas ```+``` e ```-``` para aumentar ou diminuir a velocidade da animação.
 
 Divirta-se explorando o modelo 3D do avião!
